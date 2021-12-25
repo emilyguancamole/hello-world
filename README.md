@@ -1,2 +1,3 @@
 # hello-world
-Get started guide
+Based off get started guide
+I'm a freshman at jhu currently on winter break
